@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="LabWeek7.jnlp">
+  <information>
+    <title>LabWeek7</title>
+    <vendor>ct-d116</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="LabWeek7.jar" size="3443" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="labweek7.LabWeek7"  name="LabWeek7" />
+  <update check="always"/>
+</jnlp>
